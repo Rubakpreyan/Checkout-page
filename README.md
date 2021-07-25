@@ -13,7 +13,7 @@ git clone "https://github.com/Rubakpreyan/Checkout-page";
 
 ## Demo link
 
-[My Gallery Page demo link](https://rubakpreyan.github.io/My-Gallery/)
+[My Gallery Page demo link](https://rubakpreyan.github.io/Checkout-page/)
 
 ## Credits
 
